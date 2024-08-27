@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Toggle Ragdoll" modversion="1.0.0" corepackage="False" steamworkshopid="3313617196" gameversion="1.5.9.1">
+  <Item file="%ModDir%/dummy.xml" />
+</contentpackage>
